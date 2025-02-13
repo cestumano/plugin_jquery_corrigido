@@ -6,3 +6,4 @@
 - A semântica de escrita do HTML e jQuery utilizam o idioma inglês.
 - O jQuery plugin só executa depois que o jQuery carregar na página.# plugins-jquery-exercicio
 # plugins-jquery-exercicio
+# plugin_jquery_corrigido
